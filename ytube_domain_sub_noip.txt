@@ -1,0 +1,272 @@
+host.youtube.com
+host.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+mx.youtube.com
+admin.youtube.com
+devel.youtube.com
+devel.youtube.com
+stats.youtube.com
+stats.youtube.com
+mx.youtube.com
+admin.youtube.com
+http.youtube.com
+http.youtube.com
+mx0.youtube.com
+mx0.youtube.com
+administration.youtube.com
+administration.youtube.com
+development.youtube.com
+development.youtube.com
+svn.youtube.com
+svn.youtube.com
+id.youtube.com
+id.youtube.com
+mx1.youtube.com
+mx1.youtube.com
+ads.youtube.com
+devsql.youtube.com
+devsql.youtube.com
+syslog.youtube.com
+syslog.youtube.com
+ads.youtube.com
+adserver.youtube.com
+adserver.youtube.com
+images.youtube.com  
+images.youtube.com  
+mysql.youtube.com   
+mysql.youtube.com   
+devtest.youtube.com 
+devtest.youtube.com 
+info.youtube.com    
+info.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+news.youtube.com    
+alerts.youtube.com  
+alerts.youtube.com  
+dhcp.youtube.com    
+dhcp.youtube.com    
+test1.youtube.com   
+test1.youtube.com   
+news.youtube.com   
+internal.youtube.com
+internal.youtube.com
+noc.youtube.com	
+noc.youtube.com	
+alpha.youtube.com	
+alpha.youtube.com	
+direct.youtube.com	
+direct.youtube.com	
+test2.youtube.com	
+test2.youtube.com	
+internet.youtube.com	
+internet.youtube.com	
+ns.youtube.com	
+ns.youtube.com	
+ap.youtube.com	
+ap.youtube.com	
+dmz.youtube.com	
+dmz.youtube.com	
+testing.youtube.com	
+testing.youtube.com	
+intra.youtube.com	
+intra.youtube.com	
+ns0.youtube.com	
+ns0.youtube.com	
+apache.youtube.com	
+apache.youtube.com	
+dns.youtube.com	
+dns.youtube.com	
+upload.youtube.com	
+upload.youtube.com	
+intranet.youtube.com	
+intranet.youtube.com	
+ns1.youtube.com	
+ns1.youtube.com	
+app.youtube.com	
+app.youtube.com	
+dns0.youtube.com	
+dns0.youtube.com	
+vm.youtube.com	
+vm.youtube.com	
+ipv6.youtube.com	
+ipv6.youtube.com	
+ns2.youtube.com	
+ns2.youtube.com	
+apps.youtube.com	
+apps.youtube.com	
+dns1.youtube.com	
+dns1.youtube.com	
+vnc.youtube.com	
+vnc.youtube.com	
+lab.youtube.com	
+lab.youtube.com	
+ns3.youtube.com	
+ns3.youtube.com	
+appserver.youtube.com	
+appserver.youtube.com	
+dns2.youtube.com	
+dns2.youtube.com	
+ldap.youtube.com	
+ldap.youtube.com	
+aptest.youtube.com	
+aptest.youtube.com	
+download.youtube.com	
+download.youtube.com	
+vpn.youtube.com	
+vpn.youtube.com	
+linux.youtube.com	
+linux.youtube.com	
+ops.youtube.com	198.105.
+ops.youtube.com	198.105.
+auth.youtube.com	
+auth.youtube.com	
+en.youtube.com	198.105.
+en.youtube.com	198.105.
+web.youtube.com	198.105.
+web.youtube.com	198.105.
+local.youtube.com	
+local.youtube.com	
+oracle.youtube.com	
+oracle.youtube.com	
+backup.youtube.com	
+backup.youtube.com	
+erp.youtube.com	198.105.
+erp.youtube.com	198.105.
+web2test.youtube.com	
+web2test.youtube.com	
+log.youtube.com	198.105.
+log.youtube.com	198.105.
+owa.youtube.com	198.105.
+owa.youtube.com	198.105.
+beta.youtube.com	
+beta.youtube.com	
+eshop.youtube.com	
+eshop.youtube.com	
+whois.youtube.com	
+whois.youtube.com	
+pbx.youtube.com	198.105.
+pbx.youtube.com	198.105.
+blog.youtube.com	
+blog.youtube.com	
+exchange.youtube.com	
+exchange.youtube.com	
+wiki.youtube.com	
+wiki.youtube.com	
+www.youtube.com	172.217.8.174\
+www.youtube.com	172.217.8.206\
+www.youtube.com	216.58.192.142\
+www.youtube.com	216.58.216.78\
+www.youtube.com	172.217.4.78\
+www.youtube.com	216.58.216.238\
+www.youtube.com	216.58.192.206\
+www.youtube.com	216.58.192.238\
+www.youtube.com	172.217.0.14\
+www.youtube.com	172.217.6.14\
+www.youtube.com	172.217.9.46\
+www.youtube.com	216.58.192.174\
+www.youtube.com	172.217.6.110\
+www.youtube.com	172.217.4.46\
+www.youtube.com	172.217.1.46\
+s3.youtube.com	198.105.244.63\
+s3.youtube.com	198.105.254.63\
+f5.youtube.com	198.105.244.63\
+f5.youtube.com	198.105.254.63\
+www.youtube.com	2607:f8b0:4009:803:0:0:0:200e\
+secure.youtube.com	198.105.244.63\
+secure.youtube.com	198.105.254.63\
+chat.youtube.com	198.105.244.63\
+chat.youtube.com	198.105.254.63\
+fileserver.youtube.com	198.105.244.63\
+fileserver.youtube.com	198.105.254.63\
+www2.youtube.com	198.105.244.63\
+www2.youtube.com	198.105.254.63\
+server.youtube.com	198.105.244.63\
+server.youtube.com	198.105.254.63\
+citrix.youtube.com	198.105.244.63\
+citrix.youtube.com	198.105.254.63\
+firewall.youtube.com	198.105.244.63\
+firewall.youtube.com	198.105.254.63\
+xml.youtube.com	198.105.244.63\
+xml.youtube.com	198.105.254.63\
+main.youtube.com	198.105.244.63\
+main.youtube.com	198.105.254.63\
+shop.youtube.com	198.105.244.63\
+shop.youtube.com	198.105.254.63\
+cms.youtube.com	172.217.8.174\
+forum.youtube.com	198.105.244.63\
+forum.youtube.com	198.105.254.63\
+cms.youtube.com	2607:f8b0:4001:c1d:0:0:0:66\
+manage.youtube.com	198.105.244.63\
+manage.youtube.com	198.105.254.63\
+sip.youtube.com	198.105.244.63\
+sip.youtube.com	198.105.254.63\
+corp.youtube.com	74.125.126.129\
+corp.youtube.com	2607:f8b0:4001:c1d:0:0:0:81\
+mgmt.youtube.com	198.105.244.63\
+mgmt.youtube.com	198.105.254.63\
+crs.youtube.com	198.105.244.63\
+crs.youtube.com	198.105.254.63\
+mirror.youtube.com	198.105.244.63\
+mirror.youtube.com	198.105.254.63\
+sql.youtube.com	198.105.244.63\
+sql.youtube.com	198.105.254.63\
+cvs.youtube.com	198.105.244.63\
+cvs.youtube.com	198.105.254.63\
+git.youtube.com	198.105.244.63\
+git.youtube.com	198.105.254.63\
+mobile.youtube.com	198.105.244.63\
+mobile.youtube.com	198.105.254.63\
+squid.youtube.com	198.105.244.63\
+squid.youtube.com	198.105.254.63\
+database.youtube.com	198.105.244.63\
+database.youtube.com	198.105.254.63\
+gw.youtube.com	198.105.244.63\
+gw.youtube.com	198.105.254.63\
+help.youtube.com	172.217.12.100\
+monitor.youtube.com	198.105.244.63\
+monitor.youtube.com	198.105.254.63\
+ssh.youtube.com	198.105.244.63\
+ssh.youtube.com	198.105.254.63\
+db.youtube.com	198.105.244.63\
+db.youtube.com	198.105.254.63\
+help.youtube.com	2607:f8b0:4002:811:0:0:0:2004\
+mssql.youtube.com	198.105.244.63\
+mssql.youtube.com	198.105.254.63\
+ssl.youtube.com	198.105.244.63\
+ssl.youtube.com	198.105.254.63\
+demo.youtube.com	198.105.244.63\
+demo.youtube.com	198.105.254.63\
+helpdesk.youtube.com	198.105.244.63\
+helpdesk.youtube.com	198.105.254.63\
+mta.youtube.com	198.105.244.63\
+mta.youtube.com	198.105.254.63\
+dev.youtube.com	198.105.244.63\
+dev.youtube.com	198.105.254.63\
+home.youtube.com	198.105.244.63\
+}
